@@ -1,0 +1,34 @@
+h1, h2 {
+	text-align: center;
+}
+
+.ml10 {
+	margin-left: 10px;
+}
+
+.canvasContainer {
+	width: 302px;
+	margin: 20px auto;
+}
+
+#controlsContainer,
+#gameMessage {
+	width: 600px;
+	margin: 5px auto;
+	text-align: center;
+}
+
+#gameMessage {
+	color: black;
+	font-size: 150%;
+}
+
+#btnStart {
+	font-size: 200%;
+	padding: 5px 15px;
+}
+
+.btn {
+	font-size: 150%;
+	padding: 5px 15px;
+}
